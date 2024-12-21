@@ -1,0 +1,10 @@
+{
+    "Total URLs": 4,
+    "Total 404 URLs": 3,
+    "Blacklisted Matches": 3,
+    "Blacklisted Domains": [
+        "malicious-site.com",
+        "phishing-example.net",
+        "blacklisteddomain.com"
+    ]
+}

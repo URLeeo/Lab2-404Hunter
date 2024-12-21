@@ -1,0 +1,17 @@
+[
+    {
+        "URL": "http://malicious-site.com/page1",
+        "Domain": "malicious-site.com",
+        "404 Count": 1
+    },
+    {
+        "URL": "http://blacklisteddomain.com/page3",
+        "Domain": "blacklisteddomain.com",
+        "404 Count": 1
+    },
+    {
+        "URL": "http://malicious-site.com/login",
+        "Domain": "malicious-site.com",
+        "404 Count": 1
+    }
+]
